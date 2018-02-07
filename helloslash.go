@@ -46,7 +46,7 @@ func main() {
 			br.Text = "***Bad Request***"
 		} else {
 			br.Text = `---
-#### Your request
+#### Your Request
 
 | Request field                    | Value |
 |:---------------------------------|-------|
